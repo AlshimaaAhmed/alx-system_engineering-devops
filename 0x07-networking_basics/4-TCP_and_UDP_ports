@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#listing ports with redard listing sockets and 
+#PID and name of the program to which each socket belongs
+netstat -lp
